@@ -1,0 +1,21 @@
+{
+  "name": "practice-web",
+  "description": "practice web technologies",
+  "main": "index.js",
+  "authors": [
+    "adi biton"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/adibiton/practiceWeb",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jasmine-core": "~2.3.4"
+  }
+}

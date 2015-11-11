@@ -1,0 +1,24 @@
+{
+  "name": "practice-web",
+  "version": "1.0.0",
+  "description": "practice web technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "http-server -p8084"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adibiton/practiceWeb.git"
+  },
+  "author": "adi biton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adibiton/practiceWeb/issues"
+  },
+  "homepage": "https://github.com/adibiton/practiceWeb#readme",
+  "dependencies": {
+    "bower": "^1.6.5",
+    "grunt": "^0.4.5",
+    "http-server": "^0.8.5"
+  }
+}
